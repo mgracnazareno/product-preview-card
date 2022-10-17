@@ -94,7 +94,7 @@ body {
 }
 
 .btn:hover{
-  background-color: ;
+  background-color: darkslategray;
   cursor: pointer;
 }
 @media(min-width: 320px) and (max-width:979px) {
@@ -116,7 +116,6 @@ body {
     max-width: 100%;
     font-size: 0.75rem;
     min-width: 60%;
-    
   }
 }
 
